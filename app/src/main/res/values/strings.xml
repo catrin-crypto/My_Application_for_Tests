@@ -3,4 +3,6 @@
     <string name="enter_your_email">Enter your email:</string>
     <string name="email_hint">Type your emaik address</string>
     <string name="save">Save</string>
+    <string name="valid_email">Email OK</string>
+    <string name="invalid_email">Invalid email</string>
 </resources>
